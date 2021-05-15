@@ -1,4 +1,64 @@
+@font-face {
+  font-family: Comic;
+	src: url('fonts/comic.ttf');
+}
+
+@font-face {
+  font-family: Asdonuts;
+	src: url('fonts/Asdonuts.ttf');
+}
+
+@font-face {
+  font-family: Avantgarde;
+	src: url('fonts/avantgarde-4.ttf');
+}
+
 .header {
-  color: red;
+  color:blue;
   text-align: center;
 }
+
+h1 {
+  text-align: center;
+  font-family: Comic;
+}
+
+* {
+  font-family: Comic;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+#MA {
+  text-align: center
+}
+
+#Eth {
+  text-align: center
+}
+
+#deb {
+  text-align: center
+}
+
+h2 {
+  text-align: center
+}
+
+#text {
+  width: 50%;
+  height: 100px;
+  margin-left: 25%;
+  }
+  
+  #t1, #t2, #t3 {
+    background-image: url(img/wallpaper.jpg)
+  }
+
+#histoire {
+  background-image: url(img/wallpaper2.jpg)
+}
+
