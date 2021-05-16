@@ -32,10 +32,13 @@
 #plus {
   position:absolute;
   width:100%;
-  height:100%;
+  height:50%;
   left:0%;
   top:200%;
-}
+  background-image: url(img/wallpaper2.jpg);
+  background-repeat:repeat;
+  background-size: 100%
+  }
 
 #histoire1 {
   position:absolute;
@@ -44,7 +47,9 @@
   left:0%;
   top:0%;
   text-align: center;
-  margin-left: 10%
+  background: cornflowerblue;
+  margin-left: 15%;
+  margin-top: 10%
 }
 #liste {
   position:absolute;
@@ -54,4 +59,7 @@
   top:0%;
   text-align: center;
   background: salmon;
+  margin-left: 7%; 
+  margin-right: 10%;
+  margin-top: 10%
 }

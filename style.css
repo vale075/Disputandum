@@ -59,6 +59,9 @@ h2 {
   }
 
 #histoire {
-  background-image: url(img/wallpaper2.jpg)
+  background-image: url(img/wallpaper2.jpg);
+  background-repeat:repeat;
+  background-size: 500%
 }
+
 
